@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Dev_clickFarm</title>
+
+	<link rel="stylesheet" href="css/alignment.css">
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+	<div class="highscore-bar">Highscore: <span id="highscore">0</span></div>
+	<div class="container">
+		<div class="game-log">
+			<div class="point-counter-container">
+				<span id="point-counter">0</span>
+			</div>
+			<textarea name="message-box" id="message-box" cols="30" rows="5" disabled>
+	als je dit op de webpagina ziet
+	check dan of javascript geen errors heeft en goed aangesloten is 
+			</textarea>
+		</div>
+
+		<button class="button green" onclick="krijgPunt()">Krijg punt</button>
+
+		<script src="highscore.js"></script>
+		<script src="index.js"></script>
+	</div>
+</body>
+</html>

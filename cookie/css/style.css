@@ -1,0 +1,71 @@
+.game-log {
+	display: flex;
+	flex-wrap: nowrap;
+	margin-bottom: 30px;
+}
+
+.point-counter-container {
+	min-width: 70px;
+	min-height: 70px;
+	padding: 5px;
+
+	font-size: 35px;
+	
+	border: solid grey 1px;
+	border-right: none;
+	border-radius: 5px 0px 0px 5px;
+
+	display: flex;
+}
+
+#point-counter {
+	text-align: center;
+	margin: auto;
+}
+
+#message-box {
+	resize:none;
+	width: 100%;
+	background-color: white;
+	text-align: center;
+	padding: 10px;
+
+	border: solid grey 1px;
+	border-radius: 0px 5px 5px 0px;
+}
+
+.highscore-bar {
+	height: 30px;
+	width: 100%;
+	padding: 15px;
+	background-color: forestgreen;
+	color: white;
+	margin-bottom: 30px;
+	font-size: 20px;
+	line-height: 25px;
+}
+
+.button {
+	background-color: white;
+	border: solid grey 1px;
+	color: black;
+
+	border-radius: 5px;
+	padding: 5px 15px;
+	cursor: pointer;
+	transition: all 0.2s;
+}
+
+.button:hover {
+	background-color: #eee;
+}
+
+.button.green {
+	border: solid green 1px;
+}
+
+.button.green:hover {
+	background-color: green;
+	color: white;
+}
+
