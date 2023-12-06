@@ -1,0 +1,522 @@
+[
+	[
+		{
+			"isBlackField": false,
+			"id": null,
+			"stoneValue": null
+		},
+		{
+			"isBlackField": true,
+			"id": 1,
+			"stoneValue": 1
+		},
+		{
+			"isBlackField": false,
+			"id": null,
+			"stoneValue": null
+		},
+		{
+			"isBlackField": true,
+			"id": 2,
+			"stoneValue": 1
+		},
+		{
+			"isBlackField": false,
+			"id": null,
+			"stoneValue": null
+		},
+		{
+			"isBlackField": true,
+			"id": 3,
+			"stoneValue": 1
+		},
+		{
+			"isBlackField": false,
+			"id": null,
+			"stoneValue": null
+		},
+		{
+			"isBlackField": true,
+			"id": 4,
+			"stoneValue": 1
+		},
+		{
+			"isBlackField": false,
+			"id": null,
+			"stoneValue": null
+		},
+		{
+			"isBlackField": true,
+			"id": 5,
+			"stoneValue": 1
+		}
+	],
+	[
+		{
+			"isBlackField": true,
+			"id": 6,
+			"stoneValue": 1
+		},
+		{
+			"isBlackField": false,
+			"id": null,
+			"stoneValue": null
+		},
+		{
+			"isBlackField": true,
+			"id": 7,
+			"stoneValue": 1
+		},
+		{
+			"isBlackField": false,
+			"id": null,
+			"stoneValue": null
+		},
+		{
+			"isBlackField": true,
+			"id": 8,
+			"stoneValue": 1
+		},
+		{
+			"isBlackField": false,
+			"id": null,
+			"stoneValue": null
+		},
+		{
+			"isBlackField": true,
+			"id": 9,
+			"stoneValue": 1
+		},
+		{
+			"isBlackField": false,
+			"id": null,
+			"stoneValue": null
+		},
+		{
+			"isBlackField": true,
+			"id": 10,
+			"stoneValue": 1
+		},
+		{
+			"isBlackField": false,
+			"id": null,
+			"stoneValue": null
+		}
+	],
+	[
+		{
+			"isBlackField": false,
+			"id": null,
+			"stoneValue": null
+		},
+		{
+			"isBlackField": true,
+			"id": 11,
+			"stoneValue": 1
+		},
+		{
+			"isBlackField": false,
+			"id": null,
+			"stoneValue": null
+		},
+		{
+			"isBlackField": true,
+			"id": 12,
+			"stoneValue": 1
+		},
+		{
+			"isBlackField": false,
+			"id": null,
+			"stoneValue": null
+		},
+		{
+			"isBlackField": true,
+			"id": 13,
+			"stoneValue": 1
+		},
+		{
+			"isBlackField": false,
+			"id": null,
+			"stoneValue": null
+		},
+		{
+			"isBlackField": true,
+			"id": 14,
+			"stoneValue": 1
+		},
+		{
+			"isBlackField": false,
+			"id": null,
+			"stoneValue": null
+		},
+		{
+			"isBlackField": true,
+			"id": 15,
+			"stoneValue": 1
+		}
+	],
+	[
+		{
+			"isBlackField": true,
+			"id": 16,
+			"stoneValue": 1
+		},
+		{
+			"isBlackField": false,
+			"id": null,
+			"stoneValue": null
+		},
+		{
+			"isBlackField": true,
+			"id": 17,
+			"stoneValue": 1
+		},
+		{
+			"isBlackField": false,
+			"id": null,
+			"stoneValue": null
+		},
+		{
+			"isBlackField": true,
+			"id": 18,
+			"stoneValue": 1
+		},
+		{
+			"isBlackField": false,
+			"id": null,
+			"stoneValue": null
+		},
+		{
+			"isBlackField": true,
+			"id": 19,
+			"stoneValue": 1
+		},
+		{
+			"isBlackField": false,
+			"id": null,
+			"stoneValue": null
+		},
+		{
+			"isBlackField": true,
+			"id": 20,
+			"stoneValue": 1
+		},
+		{
+			"isBlackField": false,
+			"id": null,
+			"stoneValue": null
+		}
+	],
+	[
+		{
+			"isBlackField": false,
+			"id": null,
+			"stoneValue": null
+		},
+		{
+			"isBlackField": true,
+			"id": 21,
+			"stoneValue": 0
+		},
+		{
+			"isBlackField": false,
+			"id": null,
+			"stoneValue": null
+		},
+		{
+			"isBlackField": true,
+			"id": 22,
+			"stoneValue": 0
+		},
+		{
+			"isBlackField": false,
+			"id": null,
+			"stoneValue": null
+		},
+		{
+			"isBlackField": true,
+			"id": 23,
+			"stoneValue": 0
+		},
+		{
+			"isBlackField": false,
+			"id": null,
+			"stoneValue": null
+		},
+		{
+			"isBlackField": true,
+			"id": 24,
+			"stoneValue": 0
+		},
+		{
+			"isBlackField": false,
+			"id": null,
+			"stoneValue": null
+		},
+		{
+			"isBlackField": true,
+			"id": 25,
+			"stoneValue": 0
+		}
+	],
+	[
+		{
+			"isBlackField": true,
+			"id": 26,
+			"stoneValue": 0
+		},
+		{
+			"isBlackField": false,
+			"id": null,
+			"stoneValue": null
+		},
+		{
+			"isBlackField": true,
+			"id": 27,
+			"stoneValue": 0
+		},
+		{
+			"isBlackField": false,
+			"id": null,
+			"stoneValue": null
+		},
+		{
+			"isBlackField": true,
+			"id": 28,
+			"stoneValue": 0
+		},
+		{
+			"isBlackField": false,
+			"id": null,
+			"stoneValue": null
+		},
+		{
+			"isBlackField": true,
+			"id": 29,
+			"stoneValue": 0
+		},
+		{
+			"isBlackField": false,
+			"id": null,
+			"stoneValue": null
+		},
+		{
+			"isBlackField": true,
+			"id": 30,
+			"stoneValue": 0
+		},
+		{
+			"isBlackField": false,
+			"id": null,
+			"stoneValue": null
+		}
+	],
+	[
+		{
+			"isBlackField": false,
+			"id": null,
+			"stoneValue": null
+		},
+		{
+			"isBlackField": true,
+			"id": 31,
+			"stoneValue": 2
+		},
+		{
+			"isBlackField": false,
+			"id": null,
+			"stoneValue": null
+		},
+		{
+			"isBlackField": true,
+			"id": 32,
+			"stoneValue": 2
+		},
+		{
+			"isBlackField": false,
+			"id": null,
+			"stoneValue": null
+		},
+		{
+			"isBlackField": true,
+			"id": 33,
+			"stoneValue": 2
+		},
+		{
+			"isBlackField": false,
+			"id": null,
+			"stoneValue": null
+		},
+		{
+			"isBlackField": true,
+			"id": 34,
+			"stoneValue": 2
+		},
+		{
+			"isBlackField": false,
+			"id": null,
+			"stoneValue": null
+		},
+		{
+			"isBlackField": true,
+			"id": 35,
+			"stoneValue": 2
+		}
+	],
+	[
+		{
+			"isBlackField": true,
+			"id": 36,
+			"stoneValue": 2
+		},
+		{
+			"isBlackField": false,
+			"id": null,
+			"stoneValue": null
+		},
+		{
+			"isBlackField": true,
+			"id": 37,
+			"stoneValue": 2
+		},
+		{
+			"isBlackField": false,
+			"id": null,
+			"stoneValue": null
+		},
+		{
+			"isBlackField": true,
+			"id": 38,
+			"stoneValue": 2
+		},
+		{
+			"isBlackField": false,
+			"id": null,
+			"stoneValue": null
+		},
+		{
+			"isBlackField": true,
+			"id": 39,
+			"stoneValue": 2
+		},
+		{
+			"isBlackField": false,
+			"id": null,
+			"stoneValue": null
+		},
+		{
+			"isBlackField": true,
+			"id": 40,
+			"stoneValue": 2
+		},
+		{
+			"isBlackField": false,
+			"id": null,
+			"stoneValue": null
+		}
+	],
+	[
+		{
+			"isBlackField": false,
+			"id": null,
+			"stoneValue": null
+		},
+		{
+			"isBlackField": true,
+			"id": 41,
+			"stoneValue": 2
+		},
+		{
+			"isBlackField": false,
+			"id": null,
+			"stoneValue": null
+		},
+		{
+			"isBlackField": true,
+			"id": 42,
+			"stoneValue": 2
+		},
+		{
+			"isBlackField": false,
+			"id": null,
+			"stoneValue": null
+		},
+		{
+			"isBlackField": true,
+			"id": 43,
+			"stoneValue": 2
+		},
+		{
+			"isBlackField": false,
+			"id": null,
+			"stoneValue": null
+		},
+		{
+			"isBlackField": true,
+			"id": 44,
+			"stoneValue": 2
+		},
+		{
+			"isBlackField": false,
+			"id": null,
+			"stoneValue": null
+		},
+		{
+			"isBlackField": true,
+			"id": 45,
+			"stoneValue": 2
+		}
+	],
+	[
+		{
+			"isBlackField": true,
+			"id": 46,
+			"stoneValue": 2
+		},
+		{
+			"isBlackField": false,
+			"id": null,
+			"stoneValue": null
+		},
+		{
+			"isBlackField": true,
+			"id": 47,
+			"stoneValue": 2
+		},
+		{
+			"isBlackField": false,
+			"id": null,
+			"stoneValue": null
+		},
+		{
+			"isBlackField": true,
+			"id": 48,
+			"stoneValue": 2
+		},
+		{
+			"isBlackField": false,
+			"id": null,
+			"stoneValue": null
+		},
+		{
+			"isBlackField": true,
+			"id": 49,
+			"stoneValue": 2
+		},
+		{
+			"isBlackField": false,
+			"id": null,
+			"stoneValue": null
+		},
+		{
+			"isBlackField": true,
+			"id": 50,
+			"stoneValue": 2
+		},
+		{
+			"isBlackField": false,
+			"id": null,
+			"stoneValue": null
+		}
+	]
+]
