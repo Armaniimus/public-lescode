@@ -1,7 +1,14 @@
 const cards = getCards();
 let cardsHtml = "";
-// start hieronder
 
+/*****************
+ * start hieronder
+ */
+ 
+
+	/**
+		voorbeeld waarmee je 1 kaart kan toevoegen aan cardsHtml
+	*/
 	cardsHtml += `<div class="card-container">
 		<div class="card">
 			<h5 class="title">${cards[0].title}</h5>
@@ -33,9 +40,22 @@ let cardsHtml = "";
 
 
 
-//don't touch below
+
+
+/*********************
+ * don't touch below
+ *********************
+
+/** 
+ * vervang de inhoud van het element met idcards
+ * met de inhoud van cardsHtml.
+ */
 document.getElementById("cards").innerHTML = cardsHtml;
 
+
+/**
+ * functie die alle kaarten als een array terug geeft
+ */
 function getCards() {
 	return [
 		{ "title": "Card1", "text": "Quod sint culpa est numquam. Voluptas labore non accusantium quam non dicta quia. Non perspiciatis molestiae cumque. Accusamus commodi rem nam eaque ut dolorem" },
