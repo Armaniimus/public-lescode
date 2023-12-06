@@ -1,0 +1,25 @@
+:root {
+	--box-size: 40px;
+	--columnAmount: 10;
+	--width: calc(var(--box-size) * var(--columnAmount));
+}
+
+.black {
+	background-color: brown;
+}
+
+.white {
+	background-color: beige;
+}
+
+.cell {
+	height: var(--box-size);
+	width: var(--box-size);
+}
+
+#matrix {
+	display: flex;
+	flex-wrap: wrap;
+	width: var(--width);
+	border: solid 2px black;
+}
