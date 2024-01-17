@@ -36,12 +36,8 @@ function cookieOphalen() {
 
 	/* 3.4. Check of de cookie naam overeenkomt.*/
 
-	/* 3.5. Retourneer de waarde van de cookie.
-	 	- zoek op js functie.*/
-
-	/* Opdracht 4 zet de highscore op de pagina
-	  - zie 1.2*/
-
+	/* 3.5. Zet de highscore op de pagina
+	 	- zie 1.2*/ 
 }
 
 
